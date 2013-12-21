@@ -1,0 +1,29 @@
+.sltab{
+  display:none;
+}
+
+.tabbed{
+  height:400px;
+}
+.sltabhead{
+  color:#999999;
+  font-size: 21px;
+  padding: 0 2px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.slactive{
+  border-bottom:1px solid #1BA1E2;
+  color: #333333;
+}
+.slheadcontainer{
+	border-bottom:1px solid #B0C8D7;
+	font-size:16pt;
+	padding-bottom:4px;
+}
+
+.sltab{
+  white-space: nowrap;
+	padding-top:10px;
+}
