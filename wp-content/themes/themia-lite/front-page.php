@@ -57,16 +57,7 @@
         <div class="feature_content">
             <div class="one_third_long">
             <?php
-/*
-                if ($mainblog == 1) {
-	                echo '<h2>Executive Director Search</h2>';
-	                echo '<p>Seeking an <a href="http://dev.hopecenterkc.org/wp-content/uploads/2013/08/ExecutiveDirectorSearch.pdf">Executive Director</a> with a strong prayer life who possesses experience in the field of urban ministry or Christian community development, a background in youth programs, a Christian value system and commitment to urban core populations, an undergraduate degree, seven or more years of relevant professional or volunteer experience and success managing a staff, a budget and working with a board.
-<br><br>
-EFL Associates has been engaged to assist The Hope Center Board with this important national search.<br><br>
 
-Please contact Angie Salmon or Nancy Huckaba at 913-234-1570 or <a href="mailto:nhuckaba@eflassociates.com">nhuckaba@eflassociates.com</a> for more information or to apply.';
-                }
-*/
                 if ($mainblog == 4) {
 	            	echo '<h2>Hours and Location</h2>';
 					echo '<p>3027 Prospect Ave.<br>Kansas City, MO 64128</p>';
@@ -74,7 +65,7 @@ Please contact Angie Salmon or Nancy Huckaba at 913-234-1570 or <a href="mailto:
 					echo '<p>Monday - Tuesday: 8:30AM - 6:00PM<br>Wednesday - Friday: 8:30AM - 5:00PM<br>Second Saturdays: 8:30AM - 12:00PM</p>';
 					echo '<h2>For Appointments Call:</h2>';
 					echo '<p>816-861-6500 ext 1</p>';
-/* 					echo '<iframe frameborder="0" src="http://kff.org/wp-content/themes/vip/kff/static/subsidy-calculator-widget.html" width="100%" height="1000"></iframe>'; */
+					echo '<p><a href="http://hfcckc.org/subsidy-calculator/">Check your eligibility to receive tax credits to buy health insurance</a></p>';
                 }
                 announcements_html();
 /*                 echo '<br>'; */
